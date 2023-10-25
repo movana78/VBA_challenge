@@ -13,6 +13,6 @@ Range("A1").Value = "Ticker"
 
 For i = 2 To 753001
     
-    
+     
 
 End Sub
