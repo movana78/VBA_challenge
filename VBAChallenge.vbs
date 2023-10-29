@@ -28,7 +28,7 @@ For Each ws In ThisWorkbook.Worksheets
     Open_Price = Cells(2, "C").Value
 
 'designate last row to mark end of column data
-    'LastRow = ws.Cells(ws.Rows.Count, "A").End(x1Up).Row
+    'LastRow = ws.Cells(ws.Rows.Count, "A").End(x1Up).Row - could not get this to run need TA help for scripting below
     LastRow = ActiveSheet.Cells.Find("*", SearchOrder:=xlByRows, SearchDirection:=xlPrevious).Row
     
 'begin for loop to run data
