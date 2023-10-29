@@ -21,3 +21,11 @@ to run. In addition, I used several other sources to work on this assignment inc
  * https://stackoverflow.com/questions/62471422/vba-loop-how-to-get-ticker-symbols-into-ticker-column
  * https://stackoverflow.com/questions/42844778/vba-for-each-cell-in-range-format-as-percentage
  * https://stackoverflow.com/questions/13054960/vba-macro-across-multiple-worksheets
+
+
+# Screenshots of Stock_Data
+![stock_data ss1](https://github.com/movana78/VBA_challenge/assets/144555628/619e140f-793d-47db-bbc2-9bd759685856)
+![stock_data ss2](https://github.com/movana78/VBA_challenge/assets/144555628/ea760aa5-e1e3-4fa0-bb86-6e17cb4a79a3)
+
+
+
